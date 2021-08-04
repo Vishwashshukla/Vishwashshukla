@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vishwashshukla
 - 👀 I’m interested in coding stuff
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishwash817@gmail.com 
 
 <!---
